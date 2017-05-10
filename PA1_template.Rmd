@@ -1,8 +1,5 @@
 ---
-title: "Reproducible Research: Peer Assessment 1"
-output: 
-  html_document:
-    keep_md: true
+# Reproducible Research: Peer assessment 1
 ---
 ### *Sunil V Nair*
 ### *10/05/2017*
